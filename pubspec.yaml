@@ -3,8 +3,6 @@ version: 0.7.1
 author: Iván Zaera Avellón <izaera@gmail.com>
 description: A Dart library implementing cryptographic algorithms.
 homepage: http://izaera.github.io/cipher/
-environment:
-  sdk: '>=0.8.10+6 <2.0.0'
 documentation: http://izaera.github.io/cipher/api/
 dependencies:
   bignum: '>=0.0.5 <0.1.0'
